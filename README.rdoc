@@ -1,0 +1,3 @@
+= OpenDocument
+
+It's a simple (but complete) handler for OpenDocuments like specified in http://www.oasis-open.org/standards#opendocumentv1.1
